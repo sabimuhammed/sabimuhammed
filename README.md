@@ -1,4 +1,4 @@
-Hi 👋 My name is Sabeeh Muhammed ==========  Web Developer ---------- <b>I create successful responsive websites that are fast,<b> easy to use, and built with best practices.<b> The main area of my expertise is front-end development, HTML, CSS, JS, building small and medium web apps <b> * 🌍  I'm based in Bangalore *<b> ✉️  You can contact me at [s4swabeeh@gmail.com](mailto:s4swabeeh@gmail.com) *<b> 🧠  I'm learning React js
+Hi 👋 My name is Sabeeh Muhammed ==========  Web Developer ---------- <b>I create successful responsive websites that are fast,<b> easy to use, and built with best practices.<b> The main area of my expertise is front-end development, HTML, CSS, JS, building small and medium web apps <b> * 🌍  I'm based in Bangalore *<b> ✉️  You can contact me at [s4swabeeh@gmail.com](mailto:s4swabeeh@gmail.com) *<b> 🧠  I'm learning Python
 
 ### Skills
 
